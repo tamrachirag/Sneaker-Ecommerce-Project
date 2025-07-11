@@ -28,11 +28,13 @@ A sleek, modern sneaker e-commerce website built using HTML, CSS, and JavaScript
 
 ### 👟 Website Page Screenshots
 
-- [Index Page](https://raw.githubusercontent.com/tamrachirag/Salesforce-Insurance-Mangement/main/Index.png)
-- [Index Page - Part 2](https://raw.githubusercontent.com/tamrachirag/Salesforce-Insurance-Mangement/main/Index%20Part2.Png)
-- [Merchandise Page](https://raw.githubusercontent.com/tamrachirag/Salesforce-Insurance-Mangement/main/Marchandise.Png)
-- [Mystery Box Page](https://raw.githubusercontent.com/tamrachirag/Salesforce-Insurance-Mangement/main/Mystery.png)
-- [Sneaker Page](https://raw.githubusercontent.com/tamrachirag/Salesforce-Insurance-Mangement/main/Sneaker.png)
+### 👟 Sneaker Ecommerce Project Screenshots
+
+- [Index Page](https://raw.githubusercontent.com/tamrachirag/Sneaker-Ecommerce-Project/main/Index.png)
+- [Index Page - Part 2](https://raw.githubusercontent.com/tamrachirag/Sneaker-Ecommerce-Project/main/Index%20Part2.Png)
+- [Merchandise Page](https://raw.githubusercontent.com/tamrachirag/Sneaker-Ecommerce-Project/main/Marchandise.Png)
+- [Mystery Box Page](https://raw.githubusercontent.com/tamrachirag/Sneaker-Ecommerce-Project/main/Mystery.png)
+- [Sneaker Page](https://raw.githubusercontent.com/tamrachirag/Sneaker-Ecommerce-Project/main/Sneaker.png)
 
 
 ---
